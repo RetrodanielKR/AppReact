@@ -1,6 +1,6 @@
 import React from 'react' 
 import { RemoveUserLocalUseCase } from 
-'../../../../Domain/useCases/userLocal/RemoveUserLocal'; 
+'../../../../Domain/useCass/userLocal/RemoveUserLocal'; 
  
 export const ProfileInfoViewModel = () => { 
     const removeSession = async () => { 

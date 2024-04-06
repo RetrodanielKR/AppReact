@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import AsyncStorage from '@react-native-async-storage/async-storage'; // Importa AsyncStorage para React Native
+import AsyncStorage from '@react-native-async-storage/async-storage';
 
 import { LoginAuthUseCase } from '../../../Domain/useCass/auth/LoginAuth';
 import { SaveUserLocalUseCase } from '../../../Domain/useCass/userLocal/SaveUserLocal';
